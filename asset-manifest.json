@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/c19Info/india/static/css/main.2791a3c3.chunk.css",
-    "main.js": "/c19Info/india/static/js/main.0887d524.chunk.js",
-    "main.js.map": "/c19Info/india/static/js/main.0887d524.chunk.js.map",
+    "main.js": "/c19Info/india/static/js/main.0b31b8f2.chunk.js",
+    "main.js.map": "/c19Info/india/static/js/main.0b31b8f2.chunk.js.map",
     "runtime-main.js": "/c19Info/india/static/js/runtime-main.25d07bf4.js",
     "runtime-main.js.map": "/c19Info/india/static/js/runtime-main.25d07bf4.js.map",
     "static/css/2.de424728.chunk.css": "/c19Info/india/static/css/2.de424728.chunk.css",
     "static/js/2.50b5ed43.chunk.js": "/c19Info/india/static/js/2.50b5ed43.chunk.js",
     "static/js/2.50b5ed43.chunk.js.map": "/c19Info/india/static/js/2.50b5ed43.chunk.js.map",
     "index.html": "/c19Info/india/index.html",
-    "precache-manifest.414df2c158cea4a0c05e9b663649d63b.js": "/c19Info/india/precache-manifest.414df2c158cea4a0c05e9b663649d63b.js",
+    "precache-manifest.4d82c98f5d31b30d97fa92d2d6db61f9.js": "/c19Info/india/precache-manifest.4d82c98f5d31b30d97fa92d2d6db61f9.js",
     "service-worker.js": "/c19Info/india/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/c19Info/india/static/css/2.de424728.chunk.css.map",
     "static/css/main.2791a3c3.chunk.css.map": "/c19Info/india/static/css/main.2791a3c3.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.de424728.chunk.css",
     "static/js/2.50b5ed43.chunk.js",
     "static/css/main.2791a3c3.chunk.css",
-    "static/js/main.0887d524.chunk.js"
+    "static/js/main.0b31b8f2.chunk.js"
   ]
 }
